@@ -1,0 +1,15 @@
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\bin\Debug\net8.0\FinAdvisor.UserModule.Domain.deps.json
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\bin\Debug\net8.0\FinAdvisor.UserModule.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\bin\Debug\net8.0\FinAdvisor.UserModule.Domain.pdb
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.pdb
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.csproj.AssemblyReference.cache
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.AssemblyInfoInputs.cache
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.AssemblyInfo.cs
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.csproj.CoreCompileInputs.cache
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvis.6DCD4168.Up2Date
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\refint\FinAdvisor.UserModule.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\FinAdvisor.UserModule.Domain.pdb
+D:\Work\learn\FinAdvisor\FinAdvisor.UserModule.Domain\obj\Debug\net8.0\ref\FinAdvisor.UserModule.Domain.dll

@@ -1,0 +1,12 @@
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.deps.json
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.dll
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.pdb
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.csproj.AssemblyReference.cache
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.AssemblyInfoInputs.cache
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.AssemblyInfo.cs
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.dll
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\refint\FinAdvisor.BuildingBlocks.Application.dll
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Application.pdb
+D:\Work\learn\FinAdvisor\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\obj\Debug\net8.0\ref\FinAdvisor.BuildingBlocks.Application.dll

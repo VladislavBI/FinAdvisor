@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sfv+oUM6xTfWWbPeYwuhIijPrPzD35zghxn1Tns4Ynk=",
+  "Source": "FinAdvisor.API",
+  "BasePath": "_content/FinAdvisor.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

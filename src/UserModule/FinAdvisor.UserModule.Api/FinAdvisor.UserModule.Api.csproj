@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\FinAdvisor.UserModule.Application\FinAdvisor.UserModule.Application.csproj" />
+    <ProjectReference Include="..\..\BuildingBlocks\FinAdvisor.BuildingBlocks.Api\FinAdvisor.BuildingBlocks.Api.csproj" />
+    <ProjectReference Include="..\FinAdvisor.UserModule.Infrastructure\FinAdvisor.UserModule.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.deps.json
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\bin\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.pdb
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.AssemblyInfo.cs
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\refint\FinAdvisor.BuildingBlocks.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.pdb
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\ref\FinAdvisor.BuildingBlocks.Domain.dll
+D:\Work\learn\FinAdvisor\FinAdvisor.BuildingBlocks.Domain\obj\Debug\net8.0\FinAdvisor.BuildingBlocks.Domain.csproj.AssemblyReference.cache

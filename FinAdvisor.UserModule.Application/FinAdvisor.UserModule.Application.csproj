@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinAdvisor.UserModule.Domain\FinAdvisor.UserModule.Domain.csproj" />
+    <ProjectReference Include="..\src\BuildingBlocks\FinAdvisor.BuildingBlocks.Application\FinAdvisor.BuildingBlocks.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UserPermissions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LanguageExt.Core" Version="4.4.9" />
+  </ItemGroup>
+
+</Project>

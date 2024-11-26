@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HABJ8BgOFY8=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.BuildingBlocks.Infrastructure\\FinAdvisor.BuildingBlocks.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

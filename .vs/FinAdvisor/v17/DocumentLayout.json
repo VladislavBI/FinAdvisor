@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\learn\\FinAdvisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D15617-6BF6-4E85-BC0F-9629BE7E6312}|src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\FinAdvisor.FinAccountModule.Domain.csproj|d:\\work\\learn\\finadvisor\\src\\finaccountmodule\\finadvisor.finaccountmodule.domain\\account\\finaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D15617-6BF6-4E85-BC0F-9629BE7E6312}|src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\FinAdvisor.FinAccountModule.Domain.csproj|solutionrelative:src\\finaccountmodule\\finadvisor.finaccountmodule.domain\\account\\finaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D15617-6BF6-4E85-BC0F-9629BE7E6312}|src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\FinAdvisor.FinAccountModule.Domain.csproj|d:\\work\\learn\\finadvisor\\src\\finaccountmodule\\finadvisor.finaccountmodule.domain\\account\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D15617-6BF6-4E85-BC0F-9629BE7E6312}|src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\FinAdvisor.FinAccountModule.Domain.csproj|solutionrelative:src\\finaccountmodule\\finadvisor.finaccountmodule.domain\\account\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C0B13-E4F8-4E46-AF1A-A1D632C49B39}|src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\FinAdvisor.UserModule.Infrastructure.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.infrastructure\\usermoduleinfrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928C0B13-E4F8-4E46-AF1A-A1D632C49B39}|src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\FinAdvisor.UserModule.Infrastructure.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.infrastructure\\usermoduleinfrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.api\\usermoduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.api\\usermoduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.api\\queries\\userdataquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.api\\queries\\userdataquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.api\\mutations\\usermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.api\\mutations\\usermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.api\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70BE2D4-D445-40AB-95D6-582E98C32691}|src\\UserModule\\FinAdvisor.UserModule.Api\\FinAdvisor.UserModule.Api.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.api\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35F6283-E758-4A60-9DA3-263109742048}|FinAdvisor.UserModule.Domain\\FinAdvisor.UserModule.Domain.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.domain\\users\\userexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35F6283-E758-4A60-9DA3-263109742048}|FinAdvisor.UserModule.Domain\\FinAdvisor.UserModule.Domain.csproj|solutionrelative:finadvisor.usermodule.domain\\users\\userexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35F6283-E758-4A60-9DA3-263109742048}|FinAdvisor.UserModule.Domain\\FinAdvisor.UserModule.Domain.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35F6283-E758-4A60-9DA3-263109742048}|FinAdvisor.UserModule.Domain\\FinAdvisor.UserModule.Domain.csproj|solutionrelative:finadvisor.usermodule.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\userdata\\eventhandler\\usercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\userdata\\eventhandler\\usercreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\userdata\\userindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\userdata\\userindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\userdata\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\userdata\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\userdata\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\userdata\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|d:\\work\\learn\\finadvisor\\finadvisor.usermodule.application\\userdata\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F6F27-FA82-41CE-B0D3-A347121EB4BF}|FinAdvisor.UserModule.Application\\FinAdvisor.UserModule.Application.csproj|solutionrelative:finadvisor.usermodule.application\\userdata\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475F715-86D6-46DD-B023-137F725EBCFF}|src\\FinAdvisor.API\\FinAdvisor.API.csproj|d:\\work\\learn\\finadvisor\\src\\finadvisor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475F715-86D6-46DD-B023-137F725EBCFF}|src\\FinAdvisor.API\\FinAdvisor.API.csproj|solutionrelative:src\\finadvisor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928C0B13-E4F8-4E46-AF1A-A1D632C49B39}|src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\FinAdvisor.UserModule.Infrastructure.csproj|d:\\work\\learn\\finadvisor\\src\\usermodule\\finadvisor.usermodule.infrastructure\\database\\interceptors\\domaineventinterceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928C0B13-E4F8-4E46-AF1A-A1D632C49B39}|src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\FinAdvisor.UserModule.Infrastructure.csproj|solutionrelative:src\\usermodule\\finadvisor.usermodule.infrastructure\\database\\interceptors\\domaineventinterceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC9CFB-D0B2-423E-8025-AA072E46D964}|FinAdvisor.BuildingBlocks.Domain\\FinAdvisor.BuildingBlocks.Domain.csproj|d:\\work\\learn\\finadvisor\\finadvisor.buildingblocks.domain\\models\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC9CFB-D0B2-423E-8025-AA072E46D964}|FinAdvisor.BuildingBlocks.Domain\\FinAdvisor.BuildingBlocks.Domain.csproj|solutionrelative:finadvisor.buildingblocks.domain\\models\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC9CFB-D0B2-423E-8025-AA072E46D964}|FinAdvisor.BuildingBlocks.Domain\\FinAdvisor.BuildingBlocks.Domain.csproj|d:\\work\\learn\\finadvisor\\finadvisor.buildingblocks.domain\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC9CFB-D0B2-423E-8025-AA072E46D964}|FinAdvisor.BuildingBlocks.Domain\\FinAdvisor.BuildingBlocks.Domain.csproj|solutionrelative:finadvisor.buildingblocks.domain\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.BuildingBlocks.Domain\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.BuildingBlocks.Domain\\Models\\Entity.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.BuildingBlocks.Domain\\Models\\Entity.cs",
+              "RelativeToolTip": "FinAdvisor.BuildingBlocks.Domain\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:56:47.977Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\Wallet.cs",
+              "RelativeDocumentMoniker": "src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\Wallet.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\Wallet.cs",
+              "RelativeToolTip": "src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\Wallet.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:01:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinAccount.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\FinAccount.cs",
+              "RelativeDocumentMoniker": "src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\FinAccount.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\FinAccount.cs",
+              "RelativeToolTip": "src\\FinAccountModule\\FinAdvisor.FinAccountModule.Domain\\Account\\FinAccount.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:59:49.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModuleInfrastructureConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\UserModuleInfrastructureConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\UserModuleInfrastructureConfiguration.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\UserModuleInfrastructureConfiguration.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\UserModuleInfrastructureConfiguration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:53:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Globals.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Api\\Globals.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Globals.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Api\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:52:48.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMutations.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Mutations\\UserMutations.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Api\\Mutations\\UserMutations.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Mutations\\UserMutations.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Api\\Mutations\\UserMutations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:25:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDataQuery.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Queries\\UserDataQuery.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Api\\Queries\\UserDataQuery.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\Queries\\UserDataQuery.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Api\\Queries\\UserDataQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:25:20.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModuleConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\UserModuleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Api\\UserModuleConfiguration.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Api\\UserModuleConfiguration.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Api\\UserModuleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:12:50.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserExceptions.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Domain\\Users\\UserExceptions.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Domain\\Users\\UserExceptions.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Domain\\Users\\UserExceptions.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Domain\\Users\\UserExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:52:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\Globals.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\Globals.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\Globals.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:51:16.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserIndex.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\UserIndex.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\UserData\\UserIndex.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\UserIndex.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\UserData\\UserIndex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:51:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\UserData\\UpdateUser.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\UpdateUser.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\UserData\\UpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:51:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUserById.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\GetUserById.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\UserData\\GetUserById.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\GetUserById.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\UserData\\GetUserById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:51:42.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\CreateUser.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\UserData\\CreateUser.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\CreateUser.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\UserData\\CreateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:51:07.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserCreatedEventHandler.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\EventHandler\\UserCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Application\\UserData\\EventHandler\\UserCreatedEventHandler.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Application\\UserData\\EventHandler\\UserCreatedEventHandler.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Application\\UserData\\EventHandler\\UserCreatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:14:57.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Domain\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.UserModule.Domain\\Users\\IUserRepository.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.UserModule.Domain\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "FinAdvisor.UserModule.Domain\\Users\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:11:27.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\FinAdvisor.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\FinAdvisor.API\\Program.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\FinAdvisor.API\\Program.cs",
+              "RelativeToolTip": "src\\FinAdvisor.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:09:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DomainEventInterceptors.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\Database\\Interceptors\\DomainEventInterceptors.cs",
+              "RelativeDocumentMoniker": "src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\Database\\Interceptors\\DomainEventInterceptors.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\Database\\Interceptors\\DomainEventInterceptors.cs",
+              "RelativeToolTip": "src\\UserModule\\FinAdvisor.UserModule.Infrastructure\\Database\\Interceptors\\DomainEventInterceptors.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:16:19.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.BuildingBlocks.Domain\\Models\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "FinAdvisor.BuildingBlocks.Domain\\Models\\AggregateRoot.cs",
+              "ToolTip": "D:\\Work\\learn\\FinAdvisor\\FinAdvisor.BuildingBlocks.Domain\\Models\\AggregateRoot.cs",
+              "RelativeToolTip": "FinAdvisor.BuildingBlocks.Domain\\Models\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:11:54.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
